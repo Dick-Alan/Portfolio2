@@ -52,6 +52,7 @@
   border: 5px solid black;
   border-radius: 25px;
   padding: 10px;
+  gap: 10px;
   font-size: 15px;
   font-family: monospace;
   height: auto;
@@ -60,7 +61,7 @@
 }
 .descriptionContainer {
   
-  
+  padding: 10px;
 
   gap: 3px;
 }
@@ -125,7 +126,6 @@
   z-index: -1;
 }
 
-.all {
-  padding: 0px;
-  margin: 0px;
+.point {
+  margin-left: 2vw;
 }
